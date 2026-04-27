@@ -53,7 +53,7 @@ From the final suitability map, I extracted the areas with the highest suitabili
 
 The main output is a suitability map showing areas ranked from low to very high suitability for hospital development.
 
-![Suitability Map](Rivers_Hospital_Suitability.png)
+![Suitability Map]Rivers_Hospital_Suitability.png)
 
 ---
 
